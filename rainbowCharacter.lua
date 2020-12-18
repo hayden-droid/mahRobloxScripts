@@ -1,6 +1,6 @@
 local Players = game:GetService("Players")
 
-local name = "krijnlol"
+local name = "haydenIIhi"
 
 local player = Players.WaitForChild(name).Character 
 
